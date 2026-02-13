@@ -304,7 +304,7 @@ export default function ProposalCard() {
                     <span className="text-bull-pink font-bold">Governance Partner</span>.
                     We are officially{" "}
                     <span className="text-eth-blue font-bold">merging our chains</span>{" "}
-                    in <span className="text-gold font-bold">Banglore</span> on{" "}
+                    in <span className="text-gold font-bold">Indore</span> on{" "}
                     <span className="text-gold font-bold">10th March 2026</span> 💕
                   </p>
                   <p className="text-sm sm:text-base text-gray-300 leading-relaxed">
